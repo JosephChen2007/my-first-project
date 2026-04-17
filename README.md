@@ -9,7 +9,4 @@
 * **視覺化**：繪製橫向長條圖，解決中文顯示亂碼問題。
 
 ## 🛠️ 使用技術
-* Python 3.13
-* Requests / BeautifulSoup4 (爬蟲)
-* Matplotlib (資料視覺化)
-* Re (正則表達式資料提取)
+使用 BeautifulSoup 爬蟲、Regex 提取數字，最後用 Matplotlib 畫出 Top 10 排行榜。
